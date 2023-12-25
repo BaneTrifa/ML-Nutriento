@@ -1,0 +1,5 @@
+STEAK - beef:
+    Calories: 252
+    Fat: 15 grams
+    Carbohydrates: 0 grams
+    Protein: 27.29 grams
